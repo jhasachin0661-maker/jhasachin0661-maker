@@ -1,7 +1,19 @@
 <div align="center">
-<img src="<img width="960" height="1280" alt="WhatsApp Image 2026-09-04 at 10 57 22 PM" src="https://github.com/user-attachments/assets/cd11294d-7c20-4c6d-9c1e-1d298c565173" />
-" width="150" style="border-radius: 50%;" align="right" />
+<table>
+<tr>
+<td width="150">
+<img src="https://raw.githubusercontent.com/jhasachin0661-maker/jhasachin0661-maker/main/WhatsApp%20Image%202026-09-04%20at%2010.57.22%20PM.jpeg" width="150" height="150" style="border-radius:50%; object-fit:cover;" />
+</td>
+<td>
 
+# Sachin Jha
+### Building KisanSeva for Indian Farmers
+
+</td>
+</tr>
+</table>
+
+<br clear="left"/>
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=200&section=header&text=Sachin%20Jha&fontSize=50&fontColor=ffffff&animation=twinkling)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=B.Tech+CSE+Student;Building+KisanSeva+for+Indian+Farmers;AI+%2B+Web+Enthusiast)](https://git.io/typing-svg)
