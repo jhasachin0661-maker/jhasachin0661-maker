@@ -1,11 +1,14 @@
 <div align="center">
+<img src="https://raw.githubusercontent.com/jhasachin0661-maker/jhasachin0661-maker/main/WhatsApp%20Image%202026-09-04%20at%2010.57.22%20PM.jpeg" width="120" height="120" style="border-radius:50%; object-fit:cover;" />
+</div>
+
+<div align="center">
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=200&section=header&text=Sachin%20Jha&fontSize=50&fontColor=ffffff&animation=twinkling)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=B.Tech+CSE+Student;Building+KisanSeva+for+Indian+Farmers;AI+%2B+Web+Enthusiast)](https://git.io/typing-svg)
 
 ![Open to Work](https://img.shields.io/badge/Open%20to%20Work-7DD3FC?style=for-the-badge&logo=briefcase&logoColor=white)
-
 ![Profile Views](https://komarev.com/ghpvc/?username=jhasachin0661-maker&color=7dd3fc&style=flat-square)
 ![Followers](https://img.shields.io/github/followers/jhasachin0661-maker?style=flat-square&color=7dd3fc&label=Followers)
 
@@ -35,12 +38,13 @@ Capstone project focused on AI-based automatic waste segregation, built as part 
 ## 🛠️ Tech Stack
 
 **Languages**
-
 ![Skills](https://skillicons.dev/icons?i=python,js)
 
 **Frontend**
-
 ![Skills](https://skillicons.dev/icons?i=html,css)
+
+## 📚 Currently Learning
+![Skills](https://skillicons.dev/icons?i=react,nodejs,mongodb,git)
 
 ## 📊 GitHub Stats
 
@@ -48,6 +52,31 @@ Capstone project focused on AI-based automatic waste segregation, built as part 
 
 ![My GitHub Stats](https://github-readme-stats-delta-neon-10.vercel.app/api?username=jhasachin0661-maker&show_icons=true&theme=tokyonight)
 ![Top_Langs](https://github-readme-stats-delta-neon-10.vercel.app/api/top-langs/?username=jhasachin0661-maker&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=ffffff)
+
+</div>
+
+## 🔥 GitHub Streak
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=jhasachin0661-maker&theme=nord&border=7dd3fc&ring=7dd3fc&fire=7dd3fc)
+
+</div>
+
+## 🏆 Trophies
+
+<div align="center">
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=jhasachin0661-maker&no-frame=true&no-bg=true&theme=nord)
+
+</div>
+
+## 📈 Activity Graph
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jhasachin0661-maker&theme=react-dark&hide_border=true&color=7dd3fc&line=7dd3fc&point=ffffff)
+
 </div>
 
 ## 🔗 Connect With Me
