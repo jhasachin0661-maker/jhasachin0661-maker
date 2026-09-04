@@ -1,19 +1,5 @@
 <div align="center">
-<table>
-<tr>
-<td width="150">
-<img src="https://raw.githubusercontent.com/jhasachin0661-maker/jhasachin0661-maker/main/WhatsApp%20Image%202026-09-04%20at%2010.57.22%20PM.jpeg" width="150" height="150" style="border-radius:50%; object-fit:cover;" />
-</td>
-<td>
 
-# Sachin Jha
-### Building KisanSeva for Indian Farmers
-
-</td>
-</tr>
-</table>
-
-<br clear="left"/>
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=200&section=header&text=Sachin%20Jha&fontSize=50&fontColor=ffffff&animation=twinkling)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=B.Tech+CSE+Student;Building+KisanSeva+for+Indian+Farmers;AI+%2B+Web+Enthusiast)](https://git.io/typing-svg)
@@ -60,11 +46,8 @@ Capstone project focused on AI-based automatic waste segregation, built as part 
 
 <div align="center">
 
-
-![Top_Langs](https://github-readme-stats-delta-neon-10.vercel.app/api/top-langs/?username=jhasachin0661-maker&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=ffffff)
-
 ![My GitHub Stats](https://github-readme-stats-delta-neon-10.vercel.app/api?username=jhasachin0661-maker&show_icons=true&theme=tokyonight)
-
+![Top_Langs](https://github-readme-stats-delta-neon-10.vercel.app/api/top-langs/?username=jhasachin0661-maker&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=ffffff)
 </div>
 
 ## 🔗 Connect With Me
