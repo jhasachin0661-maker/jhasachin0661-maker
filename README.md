@@ -1,4 +1,6 @@
 <div align="center">
+<img src="<img width="960" height="1280" alt="WhatsApp Image 2026-09-04 at 10 57 22 PM" src="https://github.com/user-attachments/assets/cd11294d-7c20-4c6d-9c1e-1d298c565173" />
+" width="150" style="border-radius: 50%;" align="right" />
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=200&section=header&text=Sachin%20Jha&fontSize=50&fontColor=ffffff&animation=twinkling)
 
@@ -46,14 +48,10 @@ Capstone project focused on AI-based automatic waste segregation, built as part 
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=jhasachin0661-maker&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=ffffff)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhasachin0661-maker&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=ffffff)
 
-![Streak](https://streak-stats.demolab.com/?user=jhasachin0661-maker&theme=nord&border=7dd3fc&ring=7dd3fc&fire=7dd3fc)
+![Top_Langs](https://github-readme-stats-delta-neon-10.vercel.app/api/top-langs/?username=jhasachin0661-maker&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=ffffff)
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=jhasachin0661-maker&no-frame=true&no-bg=true&theme=nord)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jhasachin0661-maker&theme=react-dark&hide_border=true&color=7dd3fc&line=7dd3fc&point=ffffff)
+![My GitHub Stats](https://github-readme-stats-delta-neon-10.vercel.app/api?username=jhasachin0661-maker&show_icons=true&theme=tokyonight)
 
 </div>
 
