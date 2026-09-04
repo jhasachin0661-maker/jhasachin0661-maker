@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/jhasachin0661-maker/jhasachin0661-maker/main/WhatsApp%20Image%202026-09-04%20at%2010.57.22%20PM.jpeg" width="120" height="120" style="border-radius:50%; object-fit:cover;" />
+
 </div>
 
 <div align="center">
