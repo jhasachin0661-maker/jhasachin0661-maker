@@ -61,23 +61,6 @@ Capstone project focused on AI-based automatic waste segregation, built as part 
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=jhasachin0661-maker&theme=nord&border=7dd3fc&ring=7dd3fc&fire=7dd3fc)
 
-</div>
-
-## 🏆 Trophies
-
-<div align="center">
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=jhasachin0661-maker&no-frame=true&no-bg=true&theme=nord)
-
-</div>
-
-## 📈 Activity Graph
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jhasachin0661-maker&theme=react-dark&hide_border=true&color=7dd3fc&line=7dd3fc&point=ffffff)
-
-</div>
 
 ## 🔗 Connect With Me
 
