@@ -27,19 +27,6 @@ const sachinJha = {
 };
 ```
 
-## 🚀 Featured Projects
-
-### 🌾 KisanSeva
-Comprehensive digital agriculture platform for Indian farmers — real-time weather, mandi price filtering, government scheme info, and an AI chatbot (KisanBot) with support across 14 Indian languages.
-
-# Hey, I'm Sachin Jha 👋
-
-### Full Stack Developer · Frontend Engineer · AI/ML Explorer
-
-I build modern web applications, interactive interfaces and practical
-AI-powered systems — from frontend experiences to connected backend
-architecture.
-
 ---
 
 ## 🚀 What I Build
@@ -152,7 +139,7 @@ Real-world Problem Solving
 ![GitHub Streak](https://streak-stats.demolab.com/?user=jhasachin0661-maker&theme=nord&border=7dd3fc&ring=7dd3fc&fire=7dd3fc)
 
 
-## 🔗 Connect With Me
+🔗 Connect With Me
 
 <div align="center">
 
@@ -163,3 +150,5 @@ Real-world Problem Solving
 </div>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=120&section=footer&animation=twinkling)
+
+
