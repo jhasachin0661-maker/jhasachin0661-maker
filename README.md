@@ -111,44 +111,96 @@ AI / ML
 Data-driven Systems
         ↓
 Real-world Problem Solving
+```
+
+---
 
 ## 🛠️ Tech Stack
 
-**Languages**
-![Skills](https://skillicons.dev/icons?i=python,js)
+### 💻 Languages
 
-**Frontend**
-![Skills](https://skillicons.dev/icons?i=html,css)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,js" />
+</p>
+
+### 🎨 Frontend
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
+</p>
+
+### ⚙️ Backend
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### 🗄️ Database & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,prisma,git,github" />
+</p>
+
+---
 
 ## 📚 Currently Learning
-![Skills](https://skillicons.dev/icons?i=react,nodejs,mongodb,git)
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,git,python" />
+</p>
+
+---
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-![My GitHub Stats](https://github-readme-stats-delta-neon-10.vercel.app/api?username=jhasachin0661-maker&show_icons=true&theme=tokyonight)
-![Top_Langs](https://github-readme-stats-delta-neon-10.vercel.app/api/top-langs/?username=jhasachin0661-maker&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=ffffff)
+<img src="https://github-readme-stats-delta-neon-10.vercel.app/api?username=jhasachin0661-maker&show_icons=true&theme=tokyonight" height="170" />
+
+<img src="https://github-readme-stats-delta-neon-10.vercel.app/api/top-langs/?username=jhasachin0661-maker&layout=compact&theme=tokyonight" height="170" />
 
 </div>
+
+---
 
 ## 🔥 GitHub Streak
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=jhasachin0661-maker&theme=nord&border=7dd3fc&ring=7dd3fc&fire=7dd3fc)
+<img src="https://streak-stats.demolab.com/?user=jhasachin0661-maker&theme=tokyonight" />
 
+</div>
 
-🔗 Connect With Me
+---
+
+## 🤝 Connect With Me
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sachin-jha-a4b504281)
-[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/jhasachin5621)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jhasachin0661@gmail.com)
+<a href="https://www.linkedin.com/in/sachin-jha-a4b504281">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://x.com/jhasachin5621">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+</a>
+
+<a href="mailto:jhasachin0661@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://github.com/jhasachin0661-maker">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🚀 Building digital systems that solve real-world problems.
 
 </div>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=120&section=footer&animation=twinkling)
-
-
