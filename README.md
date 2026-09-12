@@ -32,8 +32,98 @@ const sachinJha = {
 ### 🌾 KisanSeva
 Comprehensive digital agriculture platform for Indian farmers — real-time weather, mandi price filtering, government scheme info, and an AI chatbot (KisanBot) with support across 14 Indian languages.
 
-### ♻️ AI Waste Segregation System
-Capstone project focused on AI-based automatic waste segregation, built as part of the B.Tech curriculum with a project team.
+# Hey, I'm Sachin Jha 👋
+
+### Full Stack Developer · Frontend Engineer · AI/ML Explorer
+
+I build modern web applications, interactive interfaces and practical
+AI-powered systems — from frontend experiences to connected backend
+architecture.
+
+---
+
+## 🚀 What I Build
+
+- ⚡ Modern React interfaces
+- 🧠 AI / ML powered applications
+- 🔧 Full-stack web applications
+- 📊 Data-driven systems
+- 🏗️ REST APIs & backend architecture
+- 🎨 Interactive developer experiences
+- 🔬 Experimental engineering projects
+
+---
+
+## 🧰 Tech Stack
+
+### Frontend
+
+![React](https://img.shields.io/badge/React-2026-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
+
+### Database & Tools
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+### AI / Data
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![AI](https://img.shields.io/badge/AI%2FML-000000?style=for-the-badge)
+![Data Analysis](https://img.shields.io/badge/Data_Analysis-4B8BBE?style=for-the-badge)
+
+---
+
+## 🧪 Featured Work
+
+### 🌦️ AWS — Automatic Weather Station Anomaly Detection
+
+An AI/data-oriented system designed to identify abnormal or faulty
+weather-station sensor readings.
+
+**Focus:**
+
+- Multi-sensor time-series data
+- Anomaly detection
+- Data analysis
+- Explainable detection
+- Web-based visualization
+
+---
+
+### 🌾 KisanSeva
+
+A full-stack platform currently being developed with a focus on making
+useful digital tools and information more accessible to Indian farmers.
+
+**Stack:**
+
+`React` · `Node.js` · `APIs` · `AI`
+
+---
+
+## 🧠 Current Focus
+
+```text
+Frontend Engineering
+        ↓
+Full Stack Architecture
+        ↓
+AI / ML
+        ↓
+Data-driven Systems
+        ↓
+Real-world Problem Solving
 
 ## 🛠️ Tech Stack
 
