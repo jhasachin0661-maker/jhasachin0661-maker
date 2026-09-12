@@ -115,31 +115,6 @@ Real-world Problem Solving
 
 ---
 
-## 🛠️ Tech Stack
-
-### 💻 Languages
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,js" />
-</p>
-
-### 🎨 Frontend
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
-</p>
-
-### ⚙️ Backend
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
-### 🗄️ Database & Tools
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,prisma,git,github" />
-</p>
 
 ---
 
