@@ -71,6 +71,40 @@ const sachinJha = {
 
 ---
 
+
+---
+
+## 📚 Currently Learning
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,git,python" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats-delta-neon-10.vercel.app/api?username=jhasachin0661-maker&show_icons=true&theme=tokyonight" height="170" />
+
+<img src="https://github-readme-stats-delta-neon-10.vercel.app/api/top-langs/?username=jhasachin0661-maker&layout=compact&theme=tokyonight" height="170" />
+
+</div>
+
+---
+
+## 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=jhasachin0661-maker&theme=tokyonight" />
+
+</div>
+
+---
+
+
 ## 🧪 Featured Work
 
 ### 🌦️ AWS — Automatic Weather Station Anomaly Detection
@@ -112,39 +146,6 @@ Data-driven Systems
         ↓
 Real-world Problem Solving
 ```
-
----
-
-
----
-
-## 📚 Currently Learning
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,git,python" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats-delta-neon-10.vercel.app/api?username=jhasachin0661-maker&show_icons=true&theme=tokyonight" height="170" />
-
-<img src="https://github-readme-stats-delta-neon-10.vercel.app/api/top-langs/?username=jhasachin0661-maker&layout=compact&theme=tokyonight" height="170" />
-
-</div>
-
----
-
-## 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=jhasachin0661-maker&theme=tokyonight" />
-
-</div>
 
 ---
 
