@@ -96,6 +96,8 @@ const sachinJha = {
 
 ## 🔥 GitHub Streak
 
+## 🔥 GitHub Contributions
+
 <div align="center">
 
 <img src="https://streak-stats.demolab.com/?user=jhasachin0661-maker&theme=tokyonight" />
