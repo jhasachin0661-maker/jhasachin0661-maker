@@ -14,6 +14,16 @@
 
 </div>
 
+<div align="center">
+
+<img src="./assets/sachin-dotted.png" width="280" alt="Sachin Jha"/>
+
+<h1>Sachin Jha</h1>
+
+<p>Computer Science & Engineering • AI/ML • Developer</p>
+
+</div>
+
 ## 🙋 Who I Am
 
 ```typescript
