@@ -16,7 +16,7 @@
 
 <div align="center">
 
-<img src="./assets/sachin-dotted.png" width="280" alt="Sachin Jha"/>
+<img src="./assets/Sachin-Dotted.png" width="280" alt="Sachin Jha"/>
 
 <h1>Sachin Jha</h1>
 
