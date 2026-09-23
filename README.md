@@ -126,15 +126,45 @@ weather-station sensor readings.
 
 ---
 
-### 🌾 KisanSeva
+### 🛡️ KaamProof
 
-A full-stack platform currently being developed with a focus on making
-useful digital tools and information more accessible to Indian farmers.
+**Work is Real. Now It's Proven.**
 
-**Stack:**
+KaamProof is a worker-owned digital work record platform built for informal workers who often lack a portable and independently maintained history of their work.
 
-`React` · `Node.js` · `APIs` · `AI`
+Instead of keeping work records tied to a single employer, KaamProof helps workers build a persistent work history containing work sessions, agreed wages, payment confirmations, disputes, and verified work certificates.
 
+### 🎯 Core Features
+
+- 📍 Work session tracking
+- 💰 Wage & payment records
+- 🤝 Worker–employer confirmation
+- 📜 Verified work certificates
+- 🔗 QR-based certificate verification
+- 📊 Portable Work Passport
+- ⚠️ Dispute & evidence tracking
+- 🤖 Anomaly detection for review signals
+- 🔐 Role-based access & data isolation
+- 📱 Mobile-first / PWA experience
+
+### 🏗️ Architecture
+
+```text
+Worker / Employer
+       ↓
+   Web / PWA
+       ↓
+    Next.js
+       ↓
+ API + Auth Layer
+       ↓
+ PostgreSQL / Supabase
+       ↓
+ Work Records
+ Payments
+ Certificates
+ Disputes
+ Verification
 ---
 
 ## 🧠 Current Focus
