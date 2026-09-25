@@ -85,7 +85,7 @@ const sachinJha = {
 
 ## 📊 GitHub Stats
 
-<div align="middle">
+<div align="center">
 
 <img src="https://github-readme-stats-delta-neon-10.vercel.app/api?username=jhasachin0661-maker&show_icons=true&theme=tokyonight" height="170" />
 
